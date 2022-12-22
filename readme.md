@@ -22,10 +22,10 @@
 <p align="center"><img align="center" src="./.github/example-light.png#gh-light-mode-only"/></p>
 
 # 指定图标
+  
+将下面的代码块复制并粘贴到您的自述文件中，以添加技能图标元素！
 
-Copy and paste the code block below into your readme to add the skills icon element!
-
-Change the `?i=js,html,css` to a list of your skills seprated by ","s! You can find a full list of icons [here](#icons-list).
+将 更改'?i=js,html,css'为由“,”分隔的技能列表！[您可以在此处](#图标列表)找到完整的图标列表。
 
 ```md
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
@@ -35,11 +35,11 @@ Change the `?i=js,html,css` to a list of your skills seprated by ","s! You can f
 
 # 图标样式
 
-Some icons have a dark and light themed background. You can specify which theme you want as a url parameter.
+一些图标具有深色和浅色主题背景。您可以指定要作为url参数的主题。
 
-This is optional. The default theme is dark.
+这是可选的。默认主题为深色。
 
-Change the `&theme=light` to either `dark` or `light`. The theme is the background color, so light theme has a white icon background, and dark has a black-ish.
+将“&theme=light”更改为“dark”或“light”。主题是背景色，所以浅色主题具有白色图标背景，深色主题具有黑色图标背景。
 
 **Light Theme Example:**
 
@@ -51,9 +51,10 @@ Change the `&theme=light` to either `dark` or `light`. The theme is the backgrou
 
 # 设置每行图标数
 
-You can specify how many icons you would like per line! It's an optional argument, and the default is 15.
+您可以指定每行需要多少个图标！这是一个可选参数，默认值为15。
 
-Change the `&perline=3` to any number between 1 and 50.
+将“&perline=3”更改为1到50之间的任意数字。
+  
 
 ```md
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
@@ -63,7 +64,7 @@ Change the `&perline=3` to any number between 1 and 50.
 
 # 居中图标
 
-Want to center the icons in your readme? The SVGs are automatically resized, so you can do it the same way you'd normally center an image.
+想在自述文件中居中显示图标吗？SVG会自动调整大小，因此您可以按照通常将图像居中的方式进行调整。
 
 ```html
 <p align="center">
@@ -81,7 +82,7 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 
 # 图标列表
 
-Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
+下面是当前支持的所有图标的列表。欢迎打开一个问题，建议添加图标！
 
 |      Icon ID       |                         Icon                          |
 | :----------------: | :---------------------------------------------------: |

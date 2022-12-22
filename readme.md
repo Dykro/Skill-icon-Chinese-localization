@@ -1,11 +1,11 @@
 <p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
-<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
+<h3 align="center">在GitHub或简历上轻松展示您的技能！</h3>
 <hr>
 
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
 
-<h3>NOTE: To keep icons consistent and to ensure browser support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.<h3>
+<h3>注意：为了保持图标一致并确保浏览器支持，我们不接受提交图标的拉取请求。如果您希望添加图标，请打开一个问题。<h3>
 
 # Docs
 

@@ -7,16 +7,16 @@
 
 <h3>注意：为了保持图标一致并确保浏览器支持，我们不接受提交图标的拉取请求。如果您希望添加图标，请打开一个问题。<h3>
 
-# Docs
+# 文档
 
-- [Example](#example)
-- [Specifying Icons](#specifying-icons)
-- [Themed Icons](#themed-icons)
-- [Icons Per Line](#icons-per-line)
-- [Centering Icons](#centering-icons)
-- [Icons List](#icons-list)
+- [实例](#例子)
+- [指定图标](#specifying-icons)
+- [图标样式](#themed-icons)
+- [每行图标数](#icons-per-line)
+- [居中图标](#centering-icons)
+- [图标列表](#icons-list)
 
-# Example
+# 例子
 
 <p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" src="./.github/example-light.png#gh-light-mode-only"/></p>

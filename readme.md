@@ -10,18 +10,18 @@
 # 文档
 
 - [实例](#例子)
-- [指定图标](#specifying-icons)
-- [图标样式](#themed-icons)
-- [每行图标数](#icons-per-line)
-- [居中图标](#centering-icons)
-- [图标列表](#icons-list)
+- [指定图标](#指定图标)
+- [图标样式](#图标样式)
+- [设置每行图标数](#设置每行图标数)
+- [居中图标](#居中图标)
+- [图标列表](#图标列表)
 
 # 例子
 
 <p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" src="./.github/example-light.png#gh-light-mode-only"/></p>
 
-# Specifying Icons
+# 指定图标
 
 Copy and paste the code block below into your readme to add the skills icon element!
 
@@ -33,7 +33,7 @@ Change the `?i=js,html,css` to a list of your skills seprated by ","s! You can f
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-# Themed Icons
+# 图标样式
 
 Some icons have a dark and light themed background. You can specify which theme you want as a url parameter.
 
@@ -49,7 +49,7 @@ Change the `&theme=light` to either `dark` or `light`. The theme is the backgrou
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
-# Icons Per Line
+# 设置每行图标数
 
 You can specify how many icons you would like per line! It's an optional argument, and the default is 15.
 
@@ -61,7 +61,7 @@ Change the `&perline=3` to any number between 1 and 50.
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-# Centering Icons
+# 居中图标
 
 Want to center the icons in your readme? The SVGs are automatically resized, so you can do it the same way you'd normally center an image.
 
@@ -79,7 +79,7 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
   </a>
 </p>
 
-# Icons List
+# 图标列表
 
 Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
 
@@ -269,10 +269,3 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 
 ---
 
-## 💖 Support the Project
-
-Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
-
-<a href='https://ko-fi.com/Q5Q860KQ2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request!

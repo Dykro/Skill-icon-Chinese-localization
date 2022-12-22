@@ -25,7 +25,7 @@
   
 将下面的代码块复制并粘贴到您的自述文件中，以添加技能图标元素！
 
-通过修改`?i=js,html,css`,并使用“,”分隔技能图标！[您可以在此处](#图标列表)找到完整的图标列表。
+通过修改`?i=js,html,css`,并使用“`,`”分隔技能图标！[您可以在此处](#图标列表)找到完整的图标列表。
 
 ```md
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
@@ -33,13 +33,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-# 图标样式
+# 设置图标样式
 
 一些图标具有深色和浅色主题背景。您可以指定要作为url参数的主题。
 
 这是可选的。默认主题为深色。
 
-将“&theme=light”更改为“dark”或“light”。主题是背景色，所以浅色主题具有白色图标背景，深色主题具有黑色图标背景。
+将`&theme=light`更改为`dark`或`light`。主题是背景色，所以浅色主题具有白色图标背景，深色主题具有黑色图标背景。
 
 **Light Theme Example:**
 
@@ -62,7 +62,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-# 居中图标
+# 设置图标居中
 
 想在自述文件中居中显示图标吗？SVG会自动调整大小，因此您可以按照通常将图像居中的方式进行调整。
 

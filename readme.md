@@ -25,7 +25,7 @@
   
 将下面的代码块复制并粘贴到您的自述文件中，以添加技能图标元素！
 
-将 更改'?i=js,html,css'为由“,”分隔的技能列表！[您可以在此处](#图标列表)找到完整的图标列表。
+将 更改'''?i=js,html,css'为由“,”分隔的技能列表！[您可以在此处](#图标列表)找到完整的图标列表。
 
 ```md
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
